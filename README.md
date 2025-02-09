@@ -122,25 +122,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For inquiries or suggestions, feel free to reach out:
  
 - **Author**: Sanjay J | Miruthula Sk | Rohith
-- **Email**: [sanjayjayachandran08@gmail.com](mailto:sanjayjayachandran08@gmail.com)
+- **Email**: [rohithselvan10@gmail.com](mailto:rohithselvan10@gmail.com)
 
 ---
-
-## Contributors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Rohithselvan">
-        <img src="https://avatars.githubusercontent.com/Rohithselvan" width="100px;" alt="username1"/>
-        <br />
-        <sub><b>Rohith</b></sub>
-      </a>
-      <br />
-      Role/Contribution
-    </td>
-  </tr>
-</table>
 
 
 <p align="center">
